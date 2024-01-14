@@ -1,0 +1,17 @@
+C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopBussinessLogic\bin\Debug\net8.0\ShopBussinessLogic.deps.json
+C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopBussinessLogic\bin\Debug\net8.0\ShopBussinessLogic.runtimeconfig.json
+C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopBussinessLogic\bin\Debug\net8.0\ShopBussinessLogic.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopBussinessLogic\bin\Debug\net8.0\ShopBussinessLogic.pdb
+C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopBussinessLogic\bin\Debug\net8.0\ShopDataAccess.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopBussinessLogic\bin\Debug\net8.0\ShopDataAccess.pdb
+C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopBussinessLogic\obj\Debug\net8.0\ShopBussinessLogic.csproj.AssemblyReference.cache
+C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopBussinessLogic\obj\Debug\net8.0\ShopBussinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopBussinessLogic\obj\Debug\net8.0\ShopBussinessLogic.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopBussinessLogic\obj\Debug\net8.0\ShopBussinessLogic.AssemblyInfo.cs
+C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopBussinessLogic\obj\Debug\net8.0\ShopBussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopBussinessLogic\obj\Debug\net8.0\ShopBussinessLogic.csproj.CopyComplete
+C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopBussinessLogic\obj\Debug\net8.0\ShopBussinessLogic.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopBussinessLogic\obj\Debug\net8.0\refint\ShopBussinessLogic.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopBussinessLogic\obj\Debug\net8.0\ShopBussinessLogic.pdb
+C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopBussinessLogic\obj\Debug\net8.0\ShopBussinessLogic.genruntimeconfig.cache
+C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopBussinessLogic\obj\Debug\net8.0\ref\ShopBussinessLogic.dll
