@@ -7,6 +7,7 @@ C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopData
 C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopDataAccess\obj\Debug\net8.0\Shop.DAL.AssemblyInfoInputs.cache
 C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopDataAccess\obj\Debug\net8.0\Shop.DAL.AssemblyInfo.cs
 C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopDataAccess\obj\Debug\net8.0\Shop.DAL.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopDataAccess\obj\Debug\net8.0\Shop.DAL.sourcelink.json
 C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopDataAccess\obj\Debug\net8.0\Shop.DAL.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopDataAccess\obj\Debug\net8.0\refint\Shop.DAL.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AspCore_Shopping\ShopThreeTier\ShopDataAccess\obj\Debug\net8.0\Shop.DAL.pdb

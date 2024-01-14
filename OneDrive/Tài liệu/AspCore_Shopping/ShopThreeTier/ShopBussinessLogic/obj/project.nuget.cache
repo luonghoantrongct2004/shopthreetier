@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UuX3M2H7UYYds12QwaHg+mzXiU0DITxZwff5CjGXLPLe6T2BVokzh6s/5DtQRJ4BKgfKchUKE4NQs7tqNk0czA==",
+  "dgSpecHash": "tHWBAETJUeM3hkx+SCmjH6UMIhFk5jNw3uPAO01fg2ld6e5CLZYnv9F8e706jU40Hqz2EB7ZnCW6NU3SWcF+SA==",
   "success": true,
   "projectFilePath": "C:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\AspCore_Shopping\\ShopThreeTier\\ShopBussinessLogic\\Shop.BLL.csproj",
   "expectedPackageFiles": [
@@ -107,10 +107,8 @@
     "C:\\Users\\PREDATOR\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\PREDATOR\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\PREDATOR\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.0\\microsoft.entityframeworkcore.analyzers.8.0.0.nupkg.sha512",
-    "C:\\Users\\PREDATOR\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.0\\microsoft.entityframeworkcore.design.8.0.0.nupkg.sha512",
     "C:\\Users\\PREDATOR\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.0\\microsoft.entityframeworkcore.relational.8.0.0.nupkg.sha512",
     "C:\\Users\\PREDATOR\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.0\\microsoft.entityframeworkcore.sqlserver.8.0.0.nupkg.sha512",
-    "C:\\Users\\PREDATOR\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.0\\microsoft.entityframeworkcore.tools.8.0.0.nupkg.sha512",
     "C:\\Users\\PREDATOR\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\PREDATOR\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "C:\\Users\\PREDATOR\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

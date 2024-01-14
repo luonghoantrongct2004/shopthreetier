@@ -2,6 +2,7 @@
 
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
 using ShopDataAccess.Entity.Blog;
 using ShopDataAccess.Entity.Order;
 using ShopDataAccess.Entity.Pay;
@@ -38,8 +39,17 @@ public class ShopDbContext:IdentityDbContext<ShopUser>
             .HasForeignKey<ProductVideo>(p => p.ProductId)  // Xác định ProductVideo là phía phụ thuộc
             .OnDelete(DeleteBehavior.Cascade);
     }
+    public class ApplicationDbContextFactory : IDesignTimeDbContextFactory<ShopDbContext>
+    {
+        public ShopDbContext CreateDbContext(string[] args)
+        {
+            var optionsBuilder = new DbContextOptionsBuilder<ShopDbContext>();
+            optionsBuilder.UseSqlServer("Server=localhost,1433;Initial Catalog=Shop3Tier;User Id=sa;Password=trong225;MultipleActiveResultSets=true;TrustServerCertificate=True;");
 
-    public DbSet<Category> Categories { get; set; }
+            return new ShopDbContext(optionsBuilder.Options);
+        }
+    }
+        public DbSet<Category> Categories { get; set; }
         public DbSet<News> News { get; set; }
         public DbSet<ShopDataAccess.Entity.Brand.Brand> Brands { get; set; }
         public DbSet<ShopDataAccess.Entity.Order.Order> Orders { get; set; }
